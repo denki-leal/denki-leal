@@ -1,4 +1,4 @@
-### Olá! Eu sou o Túlio, mas me chama de Denki!
+### Hi! I'm Túlio, but call me Denki!
 <div align="center">
   <a href="https://github.com/denki-leal">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=denki-leal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,8 +42,8 @@
 
 
 
-- 🔭 Estou aprendendo Front-end
-- 🌱 Estudando Desenvolvimento web FullStack
+- 🔭 I'm learning Front-end, Physics(UFRB)
+- 🌱 Studying FullStack web development
 - 😄 Pronouns: ele/dele / elu/delu
 
 
