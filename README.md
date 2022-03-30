@@ -31,7 +31,7 @@
   <a href="https://www.microsoft.com/pt-br/software-download/windows10?ranMID=42431" target="_blank"><img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>  
   <a href="https://dlcdnets.asus.com/pub/ASUS/vga/Manual/Q10790_GPU_Tweak_II_manual.pdf" target="_blank"><img src="https://img.shields.io/badge/NVIDIA-GTX750ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" target="_blank"></a>
   <a href="https://ark.intel.com/content/www/br/pt/ark/products/52209/intel-core-i52500-processor-6m-cache-up-to-3-70-ghz.html" target="_blank"><img src="https://img.shields.io/badge/Intel-Core_i5_2th-0071C5?style=for-the-badge&logo=intel&logoColor=white" target="_blank"></a>
-      
+   <a href="https://www.amd.com/pt/products/apu/amd-ryzen-3-3200g" target="_blank"><img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
