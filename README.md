@@ -11,7 +11,8 @@
   <img align="center" alt="Denki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Denki-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Denki-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Foto" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1300090_PvSybSjo.png">
+  
+  <img align="right" alt="Foto" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1300090_PvSybSjo.png">
 </div>
   
   ##
