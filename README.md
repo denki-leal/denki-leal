@@ -52,7 +52,7 @@
 
 
 
-- 🔭 I'm learning Front-end, Physics(UFRB)
+- 🔭 I'm learning Full Stack Web Developer, Physics(UFRB)
 - 🌱 Studying FullStack web development
 - 😄 Pronouns: ele/dele / elu/delu
 
